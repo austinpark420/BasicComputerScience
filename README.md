@@ -342,19 +342,7 @@
  * Domain Name System
  * A hierarchical decentralized naming system for computers, services, or other resources connected to the Internet or a private network
 ---
----
 
-* Refer to
-    * https://undergrad.cs.umd.edu/what-computer-science
-    * https://www.computerhope.com/jargon/c/cpu.htm
-    * https://www.computerhope.com/jargon/m/memory.htm
-    * https://en.wikipedia.org/wiki/Computational_thinking
-    * https://www.geeksforgeeks.org/
-    * https://www.computerhope.com/issues/ch001559.htm
-    * https://en.wikipedia.org/wiki/OSI_model
-    * https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-    * https://en.wikipedia.org/wiki/User_Datagram_Protocol
----
 # Web Programming 
  >  Refer to the writing, markup and coding involved in Web development, which includes Web content, Web client and server scripting and network security
 ---
@@ -505,6 +493,21 @@ Application Programming Interface
 * Write it in a user defined way
 * Don't highlight the URI
 * Don't trust documentation tool
+
+---
+---
+
+* Refer to
+    * https://undergrad.cs.umd.edu/what-computer-science
+    * https://www.computerhope.com/jargon/c/cpu.htm
+    * https://www.computerhope.com/jargon/m/memory.htm
+    * https://en.wikipedia.org/wiki/Computational_thinking
+    * https://www.geeksforgeeks.org/
+    * https://www.computerhope.com/issues/ch001559.htm
+    * https://en.wikipedia.org/wiki/OSI_model
+    * https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+    * https://en.wikipedia.org/wiki/User_Datagram_Protocol
+    * https://www.techopedia.com/definition/23898/web-programming
 
 
 
