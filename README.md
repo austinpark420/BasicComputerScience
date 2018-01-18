@@ -395,7 +395,7 @@ var app = new Vue({
 ```
 ---
 
-Web Browser
+## Web Browser
 * Mosaic (1993)
 * Netscape(1994)
 * Internet Explorer(1995)
